@@ -4,6 +4,7 @@ fuzzywuzzy
 gensim
 jupyter
 jupyterlab
+jupyter_nbextensions_configurator
 markdown
 matplotlib
 networkx
