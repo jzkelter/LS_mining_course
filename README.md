@@ -39,7 +39,6 @@ First cd into the LS_mining_course folder
 
 ```
 cd ~/LS_mining_course
-
 ```
 
 Then activate the python virtual environment you created above
