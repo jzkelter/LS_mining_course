@@ -22,7 +22,6 @@ Open a Terminal application and `cd` into the `LS_mining_course` folder you just
 ```
 cd LS_mining_course
 ```
-
 Then use these commands to create the virtual environment:
 
 ```
