@@ -17,7 +17,7 @@ When you're done, you should have a folder named `LS_mining_course`.
 
 ## 2. Create your python virtual environment
 
-Open a Terminal application and `cd` into the LS_mining_course folder
+Open a Terminal application and `cd` into the `LS_mining_course` folder you just created
 
 ```
 cd LS_mining_course
