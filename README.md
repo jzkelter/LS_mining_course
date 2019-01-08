@@ -1,19 +1,19 @@
 # Getting setup
 
-## 1. Copy stuff from the github repository. 
+## 1. Copy stuff from this github repository. 
 
-You can try typing this into a Terminal application
+A first step is to copy the material from this repository to your own computer.
+On a mac, I recommend that you do this in your home directory. 
 
 ```
 cd ~
 git clone https://github.com/bsherin/LS_mining_course.git
 ```
 
-If that doesn't seem to work, you can go to github and grab the files:
+If that doesn't seem to work, click on of the links on this page to simply
+download the files.
 
-https://github.com/bsherin/LS_mining_course
-
-When you're done, you should have a folder named `LS_mining_course`.
+When you're done, you should have a new folder named `LS_mining_course`.
 
 ## 2. Create your python virtual environment
 
@@ -22,7 +22,7 @@ Open a Terminal application and `cd` into the `LS_mining_course` folder you just
 ```
 cd LS_mining_course
 ```
-Then use these commands to create the virtual environment:
+Then use these commands to create the virtual environment.
 
 ```
 virtualenv -p /usr/local/bin/python3 venv
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 Steps 1 and 2 above you only have to do once. But step 3 you might need to do
 whenever you start working.
 
-First cd into the LS_mining_course folder
+First `cd` into the LS_mining_course folder
 
 ```
 cd ~/LS_mining_course
