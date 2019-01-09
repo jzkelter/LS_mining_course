@@ -64,7 +64,7 @@ jupyter lab
 I also created some shortcuts to make this quicker.
 If you're on a mac you can double_click on jupyter_lab or jupyter_notebook.
 
-You can also run, on any platform, one of the scripts I created:
+You can also run one of these scripts:
 
 ```
 sh launch_lab.sh
