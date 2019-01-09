@@ -1,5 +1,7 @@
 # Getting setup
 
+These directions are to, a certain extent, mac specific. Linux machines will be very similar. Windows machines will be close, but will differ here and there.
+
 ## 1. Copy stuff from this github repository. 
 
 A first step is to copy the material from this repository to your own computer.
