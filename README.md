@@ -1,3 +1,17 @@
+# New directions for Week 2
+
+It's probably easiest to get the new files manually. 
+
+First, on this page, click "clone or download" and download a
+zip file. This will give you the entire contents of this repository.
+
+Then move the relevant files to your LS_mining_course folder:
+
+    * move notebooks 6 and 7 over.
+    * move the folder "mtms_csv" from the download into the corpora folder
+    * move the file named "lexicon.txt" from the download into your lists folder
+    * Finally there's a pdf named "Collocations for Manning and Schuetz.pdf" that you can put wherever you want.
+
 # Getting setup
 
 These directions are to, a certain extent, mac specific. Linux machines will be very similar. Windows machines will be close, but will differ here and there.
