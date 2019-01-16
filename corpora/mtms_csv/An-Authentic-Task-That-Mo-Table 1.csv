@@ -1,0 +1,126 @@
+__id__,__filename__,text,,
+0,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"As students develop algebraic reasoning in grades 5 to 9, they learn to recognize patterns and understand expressions, equations, and variables. Linear functions are a focus in eighth-grade mathematics, and by algebra 1, students must make sense of functions that are not linear. Educators have argued that student learning is supported when classroom activities and projects include authentic tasks that draw on students' own knowledge and interests (Gutstein 2006; Hume 2008). Authentic tasks are engaging and productive because they are designed with the students' interests, perspectives, desires, and needs in mind (Buxton 2006).",,
+1,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"What are some authentic classroom tasks that can be used to introduce and model quadratic functions? How can we design or select tasks that meet the intentions of the Common Core State Standards for Mathematics (CCSSM) and the Standards for Mathematical Practice (SMP)? This article describes how students worked through a classroom task that was designed to introduce quadratic functions. According to the Common Core's Standards for Mathematical Practice, students demonstrate mathematical modeling when they apply what they know and are comfortable making assumptions and decisions to solve complex authentic situations. Steen (2001, p. 2) argued that to thrive in the modern world, citizens must ""see the benefits (and risks) of thinking quantitatively about commonplace issues, and to approach complex problems with confidence in the value of careful reasoning.""",,
+2,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"The classroom example described here shows that students identified important quantities in practical situations and chose appropriate representations, such as diagrams, tables, graphs, and formulas, to communicate their understanding. This proved to be a powerful illustration of how to ""Model with mathematics"" (CCSSI 2010, p. 7).",,
+3,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"A teacher colleague and I collaborated to design a unit that introduced quadratic functions to students. We saw that two key factors would influence the success of our work to promote student-centered sense making: (1) the beliefs and practices of the teacher(s); and (2) the strategic selection, design, and implementation of tasks. We found that when we combined authentic tasks and student-centered classroom practices, our students were able to show their sense making and create more connected models of their understanding through the choices they made when problem solving.",,
+4,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"The established classroom climate speaks to the teacher's perspective. For example, we decided that group work, although a key factor in a student-centered classroom, would only be effective if we as teachers were committed to setting up classroom scenarios that truly allowed our students the time and opportunities to make sense of the material. This particular classroom's culture had been developed over time so that students learned that they would be engaging in authentic investigations and that their voices were highly valued by their teachers. For example, students in this class regularly led discussions and communicated their understanding through presentations. They could choose how they would express their understanding and had experienced how their feedback and reflections were used by their teachers to set learning goals, plan lessons and assessments, and establish next steps. Classroom norms encouraged the sharing of information, decision making, problem solving, and the creation of meaning by the students (Friesen 2013).",,
+5,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"Our CCSSM content goal for this lesson was to give students a context through which they could interpret a function that modeled a relationship between two quantities and be able to represent it as a table, a graph, or an equation. We hoped that our students would learn to describe the relationships as increasing or decreasing and note such features as intercepts at the axes (e.g., CCSSI 2010; F-IF, 4-9, pp. 69-70). We sought to understand and incorporate the students' prior knowledge of functions; however, we did not 
+preload
+
+vocabulary, such as 
+vertex, maximum,
+
+or 
+minimum
+
+, until the term was clearly needed. We also decided that we were not going to tell the class that some graphs or functions were not linear because we wanted them to make that discovery for themselves.",,
+6,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,THE TASK AND CONTEXT,,
+7,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,This high school had a very active Social Justice Club that was raising funds to build a school in Africa. Some students in the class had recently traveled to a school in Ghana to help with the work. The club had been raising funds for the project by selling baked goods during the school day at break time and during the lunch hour. We presented the following task to our students:,,
+8,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,The school's Ghana Project Committee sells muffins to raise funds. Committee members make the muffins themselves and have been receiving the ingredients free of charge. The committee sells muffins at lunch for $2.75 each and has been selling an average of 117 muffins per week.,,
+9,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"The chairperson of the committee is concerned about revenue. When she looked at last year's data, she noticed that for every decrease of 25, the committee sold, on average, 8 more muffins per week.",,
+10,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,How can you help the chairperson describe the revenue? What questions might the chairperson still have?,,
+11,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"The problem did not explicitly ask for a maximum or minimum because it did not need to. The need to find a maximum was implicit in the real-life situation that was represented. We looked forward to seeing if our students would grasp that idea. Furthermore, this task was designed with the expectation that its solution could be represented in many ways and that as students made sense of the problem, they could choose from many models to help represent their thinking.",,
+12,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,THE PROBLEM SETUP,,
+13,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"Students were randomly assigned to groups of three or four, and each group received a copy of the problem on a piece of paper. We asked (1) for a volunteer to read the problem and (2) if there were any questions. Part of the instructions included making sure that students could paraphrase the task. Although the word 
+revenue
+
+was discussed and defined, students were not given hints as to how to proceed. Felt pens and large sheets of grid paper, in particular, were supplied to help students prepare for and frame their thinking about various modeling possibilities. Students knew from experience that when these materials were distributed, they would be presenting and explaining their thinking to peers. We gave students approximately 90 minutes to work, and then they presented their results.",,
+14,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"Most students began by writing down numerical representations of the number of muffins, the cost per muffin, and the total revenue. They made lists or tables and studied the resulting products that produced the revenue in each case. Generally, the students' models were organized in increasing or decreasing amounts. Every group tried to find patterns in equations, some with algebra and some without.",,
+15,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"Students assumed that they could find and represent the patterns they found, and they understood that their teachers supported their choice of representation. In 
+figure 1
+
+, the group chose to model its thinking using a table. They multiplied the number of muffins sold, 
+n
+
+(column 1), by the price of the muffins, 
+p
+
+(column 3), to obtain the revenue for each case, 
+r
+
+(column 2). By examining the patterns in the middle column, they could see that as the cost of each muffin increased, the revenue increased at first, but then decreased. Students found a discrete and contextual answer: When the price per muffin was $3.25, the revenue was $328.25. This group was confident in using tabular and numerical representations to explain their understanding. However, when they attempted to show algebraically that the number sold multiplied by the price produced the revenue, their model failed. This group described their sense making and thinking to the class early on during the group presentations. It was encouraging to see that students had attempted an algebraic generalization and were not deterred by their inability to construct the algebraic model. They were convinced of the accuracy of their numerical model and trusted the patterns they found.",,
+16,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,,,
+17,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"Some students chose to write extensively about their thought processes and understanding, using numerical representations within the text. 
+Figure 2
+
+shows the work of a group that began with a clear algebraic process that students confirmed and reconfirmed by increasing and decreasing the price in 25 cent increments. This process confirmed the patterns that they would eventually understand as being a model for a quadratic function. It was interesting that this group's work (in the darker blue color) initially ""proved"" for these students that the revenue would only decrease. After realizing that the chairperson might also choose to increase the muffin price instead of decreasing it, they moved to their second set of calculations (in lighter blue).",,
+18,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,,,
+19,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"This group was able to explain and justify their choice of model by both discussing it among group members and while presenting it to their peers. At the end of their presentation, the teachers asked the students to re-explain their algebraic formula (shown at the top of the poster) in their own words. This explanation helped many members of the class make sense of the problem and, in particular, its algebraic representation.",,
+20,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"We asked the group that designed the graph in 
+figure 3
+
+to present its model last. Their carefully constructed and reasonably accurate work displays the revenue (which they labeled ""profit"") as a function of the price of each muffin (the ""unit cost""). The graph also shows the number of muffins sold for each price (cost). We saved this presentation for last because it revealed a visual representation of a nonlinear graph-the new concept of a quadratic function. Other groups also produced tables, equations, graphs, and written explanations. In general, the three figures discussed above illustrated the range of responses from the class.",,
+21,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,,,
+22,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,TEACHER PRACTICE,,
+23,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"The trickiest moments for us occurred when we debated whether or not to give students more time to finish an activity. The students engaged easily in this task. Would giving them more time improve their understanding? When students asked questions, we did not provide hints but redirected their questions to move the thinking back toward the students.",,
+24,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"The Common Core's Standards for Mathematical Practice imply that students need to be able and willing to deal with ambiguities that often arise in real problems and that they have to make decisions that will help move them along. Some students made premature conclusions. For example, one group concluded early on that the revenue simply continued to decrease, no matter the price of the muffins. Another group did not consider what would happen if the manager decided to increase the price. We asked that group to consider other options that the chairperson had. The students eventually realized that she could also choose to increase the price per muffin. When a group stated that it was finished, we always asked group members to show their work in a different way, thus confirming that their first solution was reasonable.",,
+25,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,PRESENTING THEIR WORK,,
+26,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"When the student groups gave their presentations and explained their thinking, we allowed the audience to ask questions. Some equations or number patterns were incorrect; however, students were able to follow the logic of their peers, and the presenters mostly self-corrected along the way. When a group could not see the error, we let the class know that we would return to that equation or result at the end of the presentations.",,
+27,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,TYING IT ALL TOGETHER,,
+28,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"After students had presented their ideas, most of the learning objectives of the lesson had been met. The important factors were that students had demonstrated their understanding during their presentation and had developed various representations of the model. We worked together as a class to re-define, develop, and explain the quadratic function that represented the context of the muffin problem (see 
+fig. 4
+
+). We then multiplied the binomials to show another version of the function, with decreasing powers of 
+x
+
+. Because students had been significantly engaged in the problem itself and because of the numerous representations already explained, our students could more easily understand the function equations that were written and described on the interactive white board. The function's symbolic representations allowed us to review various vocabulary words, such as 
+coefficient, variable,
+
+and 
+exponent
+
+. We also discussed the parabolic (versus linear) shape of the curve that was created by a quadratic function.",,
+29,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,,,
+30,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"We emphasized the discovery that not all functions are straight lines, and that these particular curved lines were important because they contain a point that is either the highest or the lowest point on the graph. The muffin question helped our students understand that it can sometimes be important to find that point. We then explained that the point could be a maximum or a minimum and named it the 
+vertex
+
+. In this case, the vertex on the graph showed us the price of a muffin that would produce the 
+maximum
+
+revenue.",,
+31,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,STUDENT REFLECTIONS,,
+32,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,My colleague and I regularly collected quick writes at the conclusion of each class (see fig. 5). This information helped us see where the students were in their learning and what they were still wondering. We often used this information to plan our next lessons.,,
+33,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,,,
+34,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,TASKS USED FOR MODELING AND MAKING SENSE,,
+35,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"In this lesson, our students modeled with mathematics. They showed us that they could apply what they understood, and they were persistent in doing so, even though the task required that they make decisions about some real-life ambiguities. Students understood this task well enough to engage quickly and to identify the important elements of the problem. Because of the task design, they were given the chance to show their understanding in many ways, which helped guide the entire class to experience the same problematic context through various representations: text, diagrams, tables, graphs, and formulas. Students showed that they could identify the important numerical elements of this problem, and they were able to analyze the information and choose a model to represent the patterns they found. As the groups presented their reasoning to one another, students were able to connect their models to other groups' models and link their conceptual understanding to various representations. This process worked toward increasing their confidence in the validity of the various representations. The authenticity of the original task and its context helped students trust the need for and purpose of a quadratic model.",,
+36,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"Teachers often wonder if presenting and facilitating problem-solving tasks such as this are worth the extra time. In the end, the learning was more connected and longer lasting (as we found in later units that required an understanding of functions and quadratics). Throughout the lesson, students did the lion's share of discussing and sharing, with only minimal teacher guidance. It seemed clear that the habits of mind required for students to engage in these tasks were congruent with the intent of the Common Core Standards. The new assessments for CCSSM require that students think beyond definitions and processes.",,
+37,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"The greatest impediment to student success in mathematics assessments is often persistence: They are either afraid or unwilling to try (Gladwell 2008). If our students are to succeed in these new assessments, then they must at least be willing to engage in the tasks. Although the jury is out as to whether the new assessments are ""good tests"" (Burkhardt 2012, p. 23), it is argued that what they represent is ""many times closer to the mathematics that is needed in 21st-century life and work"" (Boaler 2013).",,
+38,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"We worked hard to stay true to our perspective that our students could learn from and teach one another if we designed good tasks and if we gave students time to think, learn, and process. Co-teaching and co-planning served us well, particularly when we felt the need to rush.",,
+39,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"We realized that we expected our students to take risks, but we needed to, as well. As teachers, it can seem chancy to take time to solve problems and allow our students so much talk time. Would the risk pay off at the end? Through this lesson and other ""tactical"" tasks we developed for this and other units of study, our students learned to trust themselves as mathematical thinkers. They also showed a much more grounded understanding of functions and remembered more when they were introduced to 
+new
+
+functions in later units. Our efforts had paid off.",,
+40,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,ACKNOWLEDGMENT,,
+41,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"The author thanks her colleague and teacher, Dennis Kirkey, and his students at Mount Boucherie Secondary School in Kelowna, British Columbia, Canada, for sharing their work on this activity.",,
+42,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,REFERENCES,,
+43,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"Boaler, Jo. 2013. ""The Stereotypes That Distort How Americans Teach and Learn Math."" 
+The Atlantic
+
+. http://www.theatlantic.com/education /archive/2013/11/the-stereotypes-about-math-that-hold-americans-back/281303/",,
+44,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"Burkhardt, Hugh. 2012. ""Engineering Good Math Tests."" 
+Education Week
+
+32 (6): 23.",,
+45,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"Buxton, Cory A. 2006. ""Creating Contextually Authentic Science in a 'Low-Performing' Urban Elementary School."" 
+Journal of Research in Science Teaching
+
+43 (7): 695-721. doi:ttp://dx.doi.org/10.1002/tea.20105",,
+46,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"Common Core State Standards Initiative (CCSSI). 2010. Common Core State Standards for Mathematics. Washington, DC: National Governors Association Center for Best Practices and the Council of Chief State School Officers. http://www.corestandards .org/wp-content/uploads/Math _Standards.pdf",,
+47,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"Friesen, Sharon. 2013. ""Discipline-Based Inquiry Rubric."" Calgary, AB: University of Calgary. http://www.galileo.org /research/publications/rubric.pdf",,
+48,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"Gladwell, Malcolm. 2008. 
+Outliers: The Story of Success
+
+. New York: Little Brown and Co.",,
+49,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"Gutstein, Eric. 2006. 
+Reading and Writing the World with Mathematics: Toward a Pedagogy for Social Justice
+
+. New York: Routledge.",,
+50,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"Hume, Karen. 2008. 
+Start Where They Are: Differentiating for Success with the Young Adolescent
+
+. Toronto, ON: Pearson Education Canada.",,
+51,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,"Steen, Lynn Arthur. 2001. 
+Mathematics and Democracy: The Case for Quantitative Literacy
+
+. Washington, DC: National Council on Education and the Disciplines and the Woodrow Wilson National Fellowship Foundation.",,
+52,An Authentic Task That Models Quadratics - National Council of Teachers of Mathematics,Any thoughts on this article? Send an email to mtms@nctm.org.-Ed.,,

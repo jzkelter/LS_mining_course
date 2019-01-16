@@ -1,0 +1,405 @@
+__id__,__filename__,text,,
+0,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,The purpose of this article is to illustrate how the mathematical modeling that is present in everyday situations can be naturally embedded in mathematics classrooms.,,
+1,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"Henry O. Pollak (2013), one of the pioneers in the teaching of mathematical modeling in schools, has spoken to this point:",,
+2,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,". . . ""mathematical modeling"" is not just a new and pretentious name for ""word problem"" or ""problem solving"" in the traditional sense. Word problems embody the hope that external images will lighten the atmosphere in which mathematics is done, but let's not kid ourselves: the purpose of a word problem is only to practice the mathematics of the current chapter. Therefore an answer to a word problem is considered correct if the student finds the applicable algorithm and carries it out successfully. But mathematical modeling demands more.",,
+3,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"Mathematical modeling begins with a real problem-a really real problem, one that some people outside the mathematics classroom might want to solve and actually do solve or attempt to solve.",,
+4,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"The problem is translated into a pure mathematical problem (in the broad sense, not necessarily word for word, as in a ""word problem""), that is, a problem without any context. Then the mathematical problem is solved, and the solution is translated back into the real situation and tested for feasibility. If the solution is feasible, it is kept; if not, then one has to back up. A diagram (see 
+  fig. 1
+
+  ) depicts the process.",,
+5,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"The five steps in the modeling process are nicely described in the Common Core State Standards for Mathematics (CCSSM) in the second half of the fourth Standard for Mathematical Practice (the numbers inserted below identify the steps shown in 
+  fig. 1
+
+  ):",,
+6,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"Mathematically proficient students who can apply what they know are comfortable [1] making assumptions and approximations to simplify a complicated situation, realizing that these may need revision later. They are able to [2] identify important quantities in a practical situation and map their relationships using such tools as diagrams, two-way tables, graphs, flowcharts and formulas. They can [3] analyze those relationships mathematically to draw conclusions. They routinely [4] interpret their mathematical results in the context of the situation and [5] reflect on whether the results make sense, possibly improving the model if it has not served its purpose. (CCSSI 2010, p. 7)",,
+7,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,These five steps can be shortened to the following:,,
+8,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,,,
+9,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,1. Choose the real problem.,,
+10,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,,,
+11,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,2. Find a mathematical model for the simplified problem.,,
+12,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,,,
+13,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,3. Solve the problem that is the mathematical model.,,
+14,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,,,
+15,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,4. Translate the solution back into the real-world situation.,,
+16,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,,,
+17,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"5. Check whether the solution is feasible; if not, go back to step (1) or step (2).",,
+18,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"Of the five steps, the only one that can be done by machine is step (3); the others require human judgment. Yet most mathematics classes spend almost all their time on this step, often referred to as ""doing the math."" Looking toward the future, it is likely that less and less time will be spent teaching children the manipulative mathematics that can be fluently done with the aid of calculators or computers. Since this is the only step of the modeling process that is ""pure math,"" it is natural to wonder how students would learn pure mathematics in such an environment. Yet the ""pure"" properties of mathematical models are essential also in steps (1) and (2), in knowing what models are possible and in being able to compare them. For example, in choosing whether to use the mean or the median to describe the center (central tendency) of a data set, the purely mathematical properties of these two measures are critical. (The median is less subject to change because of outliers, the mean weights the value of each element of the set, and so on.) A person who does not know the pure mathematical properties of the mathematics being applied is like a gambler who does not know the odds of winning the gamble.",,
+19,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"Good examples of mathematical modeling are not difficult to find because we model all the time-so often that we do not think of it as mathematical modeling. The situations here have been selected to demonstrate three main purposes of mathematical modeling: to solve problems, to describe situations, and to make predictions.",,
+20,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,USING MODELING TO SOLVE A PROBLEM,,
+21,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,The following question has to be answered by anyone who has ever flown and is applicable to anyone who has ever taken scheduled transportation.,,
+22,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,A person has a flight scheduled to leave at 1:00 p.m. from a particular airport near his or her home. At what time should the person leave home?,,
+23,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,,,
+24,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,THE MODELING,,
+25,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,Step 1 (Simplify the Problem),,
+26,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"To simplify the problem raised by the question, a person must understand the situation. Passengers are told to be at the gate at least 30 minutes before the departure time. Time may be needed to check in and/or print a boarding pass. It takes time to get through airport security. And, of course, it takes time to travel from one's home to the airport and to park, if a car is left at the airport.",,
+27,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"We simplify the problem by assuming that the person is driving from home directly to the airport (making no stops along the way); parking there, having already procured a ticket and boarding pass; and taking a domestic flight (international flights require additional time).",,
+28,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,Step 2 (Find a Mathematical Model),,
+29,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"We need to identify some variables. Call the departure time 
+  D
+
+  . Here 
+  D
+
+  = 1:00 p.m. Get to the gate 
+  G
+
+  minutes before the departure time. On domestic flights, airlines recommend 
+  G
+
+   30. Let 
+  S
+
+  be the time it takes to go through security, 
+  B
+
+  the time to get a boarding pass, 
+  T
+
+  the time to travel from home to airport, and 
+  P
+
+  the time it takes to park the car.",,
+30,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"It seems like this problem is a pure subtraction problem, working back from 1:00 p.m. We have a simple mathematical model:",,
+31,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"L
+
+  = 
+  D
+
+  - 
+  G
+
+  - 
+  S
+
+  - 
+  B
+
+  - 
+  T
+
+  - 
+  P",,
+32,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"L
+
+  is the time to leave home, 
+  D
+
+  is a particular time on the clock, and sub- traction means working backward.",,
+33,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"The difficulty with this model is that 
+  S, B, T,
+
+  and 
+  P
+
+  all vary. Specifically, 
+  S
+
+  may range from a few minutes to 30 minutes or more. 
+  T
+
+  will depend on traffic. 
+  B
+
+  will equal zero if you print your boarding pass and do not check a bag. 
+  P
+
+  will also equal zero if someone else drives you to the airport or you take public transportation. To allow for unforeseen events that take time, you might let 
+  S
+
+  be 30 minutes, 
+  T
+
+  be the length of a trip to the airport if there is a great deal of traffic, and 
+  G
+
+  = 30. Some people might add 15 minutes or more to one of these values. The adventurous might use 10 minutes for security and an average time to get to the airport. Those who play it safe might make 
+  G
+
+  = 45 and allow a larger value for 
+  S.",,
+34,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,Step 3 (Solve the Mathematical Problem),,
+35,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"The calculation is easy. Suppose you take 
+  G
+
+  = 30; allow 20 minutes for security, 5 minutes for a boarding pass, and 30 minutes to get to the airport; and figure that someone will drive you. Then the equation will look like the following:",,
+36,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"L
+
+  = 
+  D - G - S - B - T - P",,
+37,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,,,
+38,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,,,
+39,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,Step 4 (Translate the Solution Back into the Real Situation),,
+40,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"Using the model, you should leave at 11:35 a.m., almost 1 1/2 hours before the flight.",,
+41,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,Step 5 (Check the Solution for Feasibility),,
+42,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"Is 11:35 a.m. feasible? Some people will say that 11:35 is too close to departure time, too risky. If so, then another variable might be subtracted from 
+  D
+
+  to play it safe. This is going back to steps 1 and 2, changing the model.",,
+43,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,THE PURE MATHEMATICS IN THE MODELING,,
+44,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"Although determining when to leave for the airport is a problem in applying mathematics, in this modeling situation there is important pure mathematics. The obvious way in which each variable appears in the formula for 
+  L
+
+  makes this problem appropriate for early work with variables. Also, the algebraic formula lends itself to a discussion of equivalent expressions. You can add all the times for 
+  G, S, B, T,
+
+  and 
+  P
+
+  and simply subtract the sum from the departure time 
+  D
+
+  . That is,",,
+45,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,,,
+46,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"L
+
+  = 
+  D -
+
+  ( 
+  G + S + B + T + P
+
+  ).",,
+47,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,The two ways of thinking about the model confirm that,,
+48,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"D -
+
+  ( 
+  G + S + B + T + P
+
+  )",,
+49,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,,,
+50,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"The problem also illustrates the importance of if-then statements. If 
+  D
+
+  = 1:00, if 
+  G
+
+  = 30 minutes, if 
+  S
+
+  = 20 minutes, if 
+  B
+
+  = 5 minutes, if 
+  T
+
+  = 30 minutes, and if 
+  P
+
+  = 0, then changing the assumptions may change the conclusion. The advantage of using a modeling situation to teach about if-then statements is that it is often clear that the hypothesis (the ""if"" part) can change. This is not so clear in if-then statements in theorems or in the use of if-then statements in properties such as ""If 
+  a
+
+  and 
+  b
+
+  are real numbers, then 
+  a + b = b + a
+
+  .""",,
+51,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"One of the nice aspects of this airline scenario is that the same overall method can be applied to many other situations. When must a person get up to get to school on time? When must a person begin to dress for a special occasion at a location within some driving distance? In general, after any problem-pure or applied-has been solved, it is a good idea to ask students what other problems could be solved using the same method. The applicability of a single bit of mathematics to a variety of problems is a major reason that mathematics is ubiquitous in our world.",,
+52,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,USING MODELING TO DESCRIBE A SITUATION,,
+53,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,An example of the use of a model to describe a situation that is familiar to every teacher arises from the desire to describe how well a student has fared in a class.,,
+54,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"How much does a student (here, named Terry) know about the mathematics studied this grading period?",,
+55,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,THE MODELING,,
+56,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,Step 1 (Simplify the Problem),,
+57,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"There is no way that we (or anyone else, for that matter) can determine exactly how much Terry knows about a particular piece of mathematics (unless Terry knows nothing at all). Nor (unless the content is a bunch of facts to be memorized) is it possible to ask Terry all the possible questions that can be asked.",,
+58,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"So we simplify the problem by selecting a small number of questions 
+  n
+
+  to ask Terry, a sample of questions from an infinite sample space. We typically call these questions 
+  test items
+
+  .",,
+59,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,Step 2 (Find a Mathematical Model),,
+60,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"To each test item we attach a weight, that is, a number of points. The number of points is a mathematical model of the importance of that item.",,
+61,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,Step 3 (Solve the Mathematical Problem),,
+62,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"We then typically add the points for all 
+  n
+
+  items to obtain a score 
+  S
+
+  for the student. If the weight of item 
+  i
+
+  is 
+  w 
+  i
+
+  , then",,
+63,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,,,
+64,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"If partial credit is allowed, each of the 
+  w 
+  i
+
+  might be replaced by any number from 0 to 
+  w 
+  i
+
+  .",,
+65,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,Step 4 (Translate the Solution Back into the Real Situation),,
+66,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"In some places, the number 
+  S
+
+  is immediately transformed into a grade A, B, C, D, or E (or F) based on intervals such as this: If 90  
+  S
+
+   100, Terry gets an A; if 80  
+  S
+
+  < 90 , Terry gets a B; and so on. In other places, teachers look at the scores for all students in a class and then curve the test, thereby changing the intervals.",,
+67,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"At the end of a grading period, we may add all the scores for a given student for a final score 
+  L
+
+  to convert to a letter grade. If there have been five tests, we then have",,
+68,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"L
+
+  = 
+  S1
+
+  + 
+  S2
+
+  + 
+  S3
+
+  + 
+  S4
+
+  + 
+  S5
+
+  ,",,
+69,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"but if the fifth test is a test over the grading period, it might have triple the weight (or some other multiple of the weight) of the other tests. Then",,
+70,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"L
+
+  = 
+  S1
+
+  + 
+  S2
+
+  + 
+  S3
+
+  + 
+  S4
+
+  + 3 
+  S5
+
+  .",,
+71,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,We have changed the model when we change the weights given to individual items or to individual tests.,,
+72,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,Step 5 (Check the Solution for Feasibility),,
+73,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"The feasibility of the grades has to be checked. Are the grades reflective of the knowledge of Terry and other students? Did those students we feel know the most get the highest grades? We may allow ourselves a ""fudge factor"" (or perhaps more accurately in this situation, a ""fudge addend"") to allow for participation in class or quality of homework (or perhaps these are part of the original model).",,
+74,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,THE PURE MATHEMATICS IN THE MODELING,,
+75,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"The pure mathematics involved in the solution to this problem is quite varied. It includes work with subscripts, linear combinations, and double inequalities, and the use of many variables in a single equation. In the classroom, a teacher does not need to go through the entire modeling process to show how mathematics describes situations. Writing mathematical sentences such as 80  
+  S
+
+  < 90 for scores 
+  S
+
+  that will earn a grade of B on a test, or identifying a student's scores as 
+  S1
+
+  , 
+  S2
+
+  , or 
+  S3
+
+  is like speaking French in a French classroom. 
+  
+
+  It brings the (mathematical) language home.",,
+76,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,USING MODELING TO PREDICT,,
+77,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"In the examples above, mathematical models are used to solve problems and describe situations. Mathematical models also can be used to predict. For instance, consider the following problem that is important for virtually every school or school district to consider.",,
+78,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,How many students will be in the district 10 years from now?,,
+79,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"In places where the student population is expected to change significantly, this is an important question. The answer is critical in determining whether there is a need for new classrooms or for re-allocation of students to school buildings.",,
+80,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"This is a difficult real-world problem. How many people will be moving into the district, and how many will be moving out? How many students are in preschool now? All these considerations need to be put into some sort of model, dealt with, predictions made, and then the feasibility of the predictions checked. School districts often pay consultants a great deal of money to provide reasonable predictions. Yet this is a problem that can be considered by a middle school class and, with the support of administrators, can give students a sense of the kinds of long-term decisions that school boards must make. It can also generate pride in that students might be able to assist in those decisions.",,
+81,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,THE MODELING,,
+82,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,Step 1 (Simplify the Problem),,
+83,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"For a middle school class, the problem might be simplified to consider only certain grades. For instance, to determine how many students might be in a district 10 years from now, perhaps start by considering the number of students who might be in grades 6-8 in 5 years (because we might be able to use the number of students in grades 1-3 now).",,
+84,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,Step 2 (Find a Mathematical Model),,
+85,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"Decisions must be made regarding the translation into mathematics. Because there are so many choices, this is the most difficult part of the problem.",,
+86,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"Should we assume that the population is growing or declining by a certain amount or at a certain rate? For instance, suppose that there are 350 students currently in grades 1-3. In some schools, it may be more realistic to assume that there is a constant increase or decrease of population per year; in that case, a linear function (with constant slope) is appropriate. For instance, if we assume the school population is increasing by 5 students in each grade each year, then 
+  n
+
+  years from now the population 
+  P
+
+  will be 
+  P
+
+  = 350 + 15 
+  n
+
+  .",,
+87,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"In some schools, the population may be growing or declining exponentially, and so we need a function whose values change at a constant growth rate. If we assume that the population is declining by 4 percent per year, then 
+  n
+
+  years from now the population will be approximately 
+  P
+
+  = 350(0.96) 
+  n
+
+  .",,
+88,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,Steps 3 and 4 (Solve the Mathematical Problem and Translate the Solution Back into the Real Situation),,
+89,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"Let 
+  P
+
+  be the population in grades 6-8 
+  n
+
+  years from now. If 
+  P
+
+  = 350 + 15 
+  n
+
+  , then we estimate that",,
+90,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"P
+
+  = 350 + 15  5 = 425 students.",,
+91,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"The translation into the real situation is obvious. If 
+  P
+
+  = 350(0.96) 
+  n
+
+  , then 5 years from now, the population in grades 6-8 is estimated to be 285.38. The translation back to the situation requires that we round this value to an integer, perhaps to the nearest integer, which is 285.",,
+92,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"Using the same formulas, 10 years from now we would estimate",,
+93,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"P
+
+  = 350 + 15  10 = 500 students",,
+94,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,under the first model and,,
+95,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"P
+
+  = 350(0.96) 
+  10",,
+96,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,232.69,,
+97,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,233 students,,
+98,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,under the second model.,,
+99,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,Step 5 (Check the Solution for Feasibility),,
+100,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"Do those estimates seem realistic? This is a matter of opinion. Consultants might provide lower, middle, and upper estimates of the number of students to expect.",,
+101,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,THE PURE MATHEMATICS IN THE MODELING,,
+102,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"The mathematics that is involved in these estimates is quite rich. In using functions to predict, the properties of the real situation go hand in hand with important mathematical properties of the types of functions to consider. If we assume that the increase or decrease in the number of students per year is constant, the mathematical model (the formula for 
+  P
+
+  ) will be a linear function. The slope of that function will be positive if there is an increase and negative if there is a decrease. If we assume that the increase or decrease in the number of students per year is a constant percentage of the students in a grade, then the mathematical model is an exponential function. The base of the function will be greater than 1 if growth is assumed and between 0 and 1 if the population is expected to decline.",,
+103,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,THE STATISTICS OF MODELING,,
+104,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"The three examples of mathematical modeling situations presented here all involve statistical ideas even though statistics are never mentioned. In deciding when to leave for the airport, students are dealing with implicit statistical distributions of times that it takes to get to the airport, to go through security, and so on, and making an estimate based on those distributions. In attempting to determine how much a student knows, a teacher samples from a huge population of questions that a student might be asked. In predicting what a school population will be years from now, collecting data about the current school population is critical.",,
+105,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"From the NCTM Standards of 1989 to the current Common Core, there has been an emphasis on the connections that teachers and students should endeavor to make among different ways to solve a problem, between mathematics and its applications, and among related mathematical topics. Too often in classrooms we see just the opposite-disconnects between mathematics and its applications, between mathematics and statistics, between one mathematical topic and another. Some people think they are being efficient by focusing on each bit of mathematics separately. Although focus is helpful and needed, for a deeper understanding it can be a more effective use of time to work on modeling situations. Not only does modeling provide relevance for the mathematics being studied, it strengthens the ""pure"" mathematical aspects of the content.",,
+106,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"As Henry Pollak has written,",,
+107,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"Don't get the impression that all of this is an unnatural demand on mathematics education. Far from it, it strengthens the affinity between pure mathematics and its applications.",,
+108,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,ACKNOWLEDGMENT,,
+109,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,The author thanks Jennifer Bay-Williams for her comments and suggestions on earlier versions of this article.,,
+110,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,REFERENCES,,
+111,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"Common Core State Standards Initiative (CCSSI). 2010. Common Core State Standards for Mathematics. Washington, DC: National Governors Association Center for Best Practices and the Council of Chief State School Officers. http://www.corestandards.org/wp-content/uploads/Math_Standards.pdf",,
+112,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"National Council of Teachers of Mathematics (NCTM). 1989. 
+  Curriculum and Evaluation Standards for School Mathematics.
+
+  Reston, VA: NCTM.",,
+113,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,"Pollak, Henry O. 2013. ""What Is Mathematical Modeling?"" Missouri Learning Standards. http://www.missourilearningstandards.com/files/cur-math-comcore-what-is-mathematical-modeling.pdf",,
+114,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,Any thoughts on this article? Send an email to mtms@nctm.org.-Ed.,,
+115,Mathematical Modeling and Pure Mathematics - National Council of Teachers of Mathematics,,,

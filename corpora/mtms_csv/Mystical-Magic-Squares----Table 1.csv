@@ -1,0 +1,84 @@
+__id__,__filename__,text,,
+0,Mystical Magic Squares - National Council of Teachers of Mathematics,"""Math is so boring!"" How many times have we heard this statement from our students? As teachers, we are constantly looking for different activities to interest our students in mathematics and to convey the true richness and diversity of the subject.",,
+1,Mystical Magic Squares - National Council of Teachers of Mathematics,"Mathematical puzzles, like magic squares, have generated tremendous interest among children and adults alike for thousands of years. They also represent one way that cultures throughout history have ascribed mystical properties to numbers. A 
+  magic square
+
+  is an 
+  n
+n
+
+  matrix, or grid, in which every row, column, and diagonal sums to the same number; this number is known as the 
+  magic sum
+
+  . An example of a 3  3 magic square with a magic sum of 15 is shown in 
+  figure 1
+
+  .",,
+2,Mystical Magic Squares - National Council of Teachers of Mathematics,,,
+3,Mystical Magic Squares - National Council of Teachers of Mathematics,"Magic squares first appeared in China (approximately 2200 B.C.). According to legend, Emperor Yu of China was standing on the bank of the Luo River when a turtle appeared with a curious and mystical symbol on its shell (see 
+  fig. 2
+
+  ). In this image, the groups of dots represent the numbers that comprise the magic square. Thus, the square is equivalent to that shown in 
+  figure 1.",,
+4,Mystical Magic Squares - National Council of Teachers of Mathematics,"Magic squares were also known to Arab mathematicians in the ninth century and used by Arab astrologers to tell fortunes (PBS 2014). They appeared in the work of sixteenth century German artist Albrecht Drer (see 
+  fig. 3
+
+  ). The 4  4 magic square in Drer's engraving 
+  Melancholia I,
+
+  in addition to having rows and columns that sum to 34, contains five 2  2 squares that also sum to 34 (located in the four corners of the larger square and in the center). (See 
+  fig. 4
+
+  .) This particular type of magic square is called the 
+  Gnomon magic square.
+
+  Note also that 1514, the date of the engraving, is featured in the bottom row of the magic square.",,
+5,Mystical Magic Squares - National Council of Teachers of Mathematics,,,
+6,Mystical Magic Squares - National Council of Teachers of Mathematics,,,
+7,Mystical Magic Squares - National Council of Teachers of Mathematics,,,
+8,Mystical Magic Squares - National Council of Teachers of Mathematics,"In the classroom, magic squares present a great opportunity to make historical connections and explore problem solving in a fun way. Magic squares can also support many of NCTM's Principles and Standards (NCTM 2000), including the Connections and Number and Operations Standards. 
+  Principles to Actions: Ensuring Mathematical Success for All
+
+  (NCTM 2014) includes a call to implement tasks that promote reasoning and problem solving by engaging students in solving and discussing tasks that promote mathematical reasoning and problem solving with varied strategies. The Common Core's Standards for Mathematical Practice (CCSSI 2010) also call for students to be given opportunities to apply appropriate strategies and reflect on their strategies and those of their classmates. In this activity, students develop number sense, explore operations, practice their problem-solving skills, investigate the distributive and commutative properties, and learn about mathematical history in a fun and engaging manner.",,
+9,Mystical Magic Squares - National Council of Teachers of Mathematics,TEACHER NOTES,,
+10,Mystical Magic Squares - National Council of Teachers of Mathematics,"The 
+  activity sheet
+
+  is suitable for middle school students since it requires customary background knowledge. The activity explores magic squares and their properties, so teachers should have extra copies of blank 3  3 and 4  4 magic square grids available for student use.",,
+11,Mystical Magic Squares - National Council of Teachers of Mathematics,"Students are given a definition of a magic square, but must determine the magic sum for a 3  3 magic square by themselves (question 1). They will most likely use many different strategies. Allow students to present the squares they created and their methods for determining the magic sum because such presentations provide a rich opportunity for students to articulate their thinking and compare their methods. One efficient strategy for determining the magic sum of a 3  3 magic square that teachers could suggest (if students do not discover it for themselves) is to add all the numbers used in the square, 1 through 9, then divide the sum by 3, the number of rows (or columns). This method can be generalized to larger magic squares. An 
+  n
+n
+
+  magic square contains the whole numbers 1 to 
+  n2
+
+  . Summing these and dividing by 
+  n
+
+  , the number of rows (or columns), gives the formula for the magic sum: 
+  n
+
+  (
+  n2
+
+  + 1)/2.",,
+12,Mystical Magic Squares - National Council of Teachers of Mathematics,"Comparing the students' magic squares can lead to a discussion of symmetry, rotation, and reflection (see questions 3 and 5).",,
+13,Mystical Magic Squares - National Council of Teachers of Mathematics,"Questions 6 through 10 explore the foundations of matrix addition and scaling. They also provide the foundation for a discussion about distributive and commutative properties. These questions are designed to give students the opportunity to look for patterns, investigate the results that different operations have on the magic square, and practice the logical reasoning that they need to succeed in mathematics.",,
+14,Mystical Magic Squares - National Council of Teachers of Mathematics,MAGIC SQUARES PROMOTE MATHEMATICAL THINKING,,
+15,Mystical Magic Squares - National Council of Teachers of Mathematics,"This activity was designed to be a challenging investigation that provides a glimpse into the vibrant history of mathematics and the enjoyment that working on a mathematical task can provide. Magic squares offer a rich environment in which students can practice mathematical thinking, discuss and build foundations for advanced mathematical topics, and build historical connections. After completing this activity, students should have a new appreciation for mathematics and problem solving.",,
+16,Mystical Magic Squares - National Council of Teachers of Mathematics,BIBLIOGRAPHY,,
+17,Mystical Magic Squares - National Council of Teachers of Mathematics,"American Mathematical Society. 2014. ""Mysterious Magic Squares."" Mathematics Awareness Month 2014: Mathematics, Magic, and Mystery. http://www.mathaware.org /mam/2014/calendar/magicsquares .html.",,
+18,Mystical Magic Squares - National Council of Teachers of Mathematics,"Common Core State Standards Initiative (CCSSI). 2010. Common Core State Standards for Mathematics. Washington, DC: National Governors Association Center for Best Practices and the Council of Chief State School Officers. http://www.corestandards .org/wp-content/uploads/Math _Standards.pdf",,
+19,Mystical Magic Squares - National Council of Teachers of Mathematics,"National Council of Teachers of Mathematics (NCTM). 2000. 
+  Principles and Standards for School Mathematics.
+
+  Reston, VA: NCTM.",,
+20,Mystical Magic Squares - National Council of Teachers of Mathematics,"---.
+
+  2014. 
+  Principles to Actions: Ensuring Mathematical Success for All.
+
+  Reston, VA: NCTM.",,
+21,Mystical Magic Squares - National Council of Teachers of Mathematics,"Public Broadcasting Service (PBS). 2014. ""Activity II: Magic Squares and Stars (Grade Levels: 4-8)."" http://www .pbs.org/teachers/mathline/concepts /historyandmathematics/activity2 .shtm. Mathline, accessed July 18, 2014.",,
+22,Mystical Magic Squares - National Council of Teachers of Mathematics,,,
+23,Mystical Magic Squares - National Council of Teachers of Mathematics,,,

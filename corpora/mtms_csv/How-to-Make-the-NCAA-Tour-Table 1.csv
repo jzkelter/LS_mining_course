@@ -1,0 +1,28 @@
+__id__,__filename__,text,,
+0,How to Make the NCAA Tourney - National Council of Teachers of Mathematics,One job of the NCAA basketball selection committee is to decide which teams will make the tournament by choosing the best 37 teams that do not automatically qualify. Two measures used to select the teams and seed the brackets are the RPI (Rating Percentage Index) and the SOS (Strength of Schedule).,,
+1,How to Make the NCAA Tourney - National Council of Teachers of Mathematics,,,
+2,How to Make the NCAA Tourney - National Council of Teachers of Mathematics,"The RPI measures the difficulty of a team's schedule and how that team fared against that schedule. The RPI is found by a weighted sum of the WP (a team's winning percentage), the OWP (the opponent's average winning percentage), and the OOWP (the opponent's opponents' average winning percentage):",,
+3,How to Make the NCAA Tourney - National Council of Teachers of Mathematics,RPI = .25 (WP) + .50 (OWP) + .25 (OOWP),,
+4,How to Make the NCAA Tourney - National Council of Teachers of Mathematics,"The SOS is the measure of a team's strength of schedule, which is found through this calculation: SOS = 2/3(OWP) + 1/3(OOWP)",,
+5,How to Make the NCAA Tourney - National Council of Teachers of Mathematics,"Based on the RPI ranking, the chart above lists the top 5 NCAA men's teams at the end of 2013-14.",,
+6,How to Make the NCAA Tourney - National Council of Teachers of Mathematics,"1.
+
+  Calculate the winning percentage (WP) for each team by dividing the number of games won by the total number of games played. Enter the values in the chart.",,
+7,How to Make the NCAA Tourney - National Council of Teachers of Mathematics,"2.
+
+  Calculate the RPI for each team using the formula. Enter the values in the chart.",,
+8,How to Make the NCAA Tourney - National Council of Teachers of Mathematics,"3.
+
+  Calculate the SOS for each team using the formula. Enter the values in the chart.",,
+9,How to Make the NCAA Tourney - National Council of Teachers of Mathematics,"4.
+
+  Why is Wichita State ranked lower than Florida, Arizona, and Kansas in RPI, although it has a better winning percentage?",,
+10,How to Make the NCAA Tourney - National Council of Teachers of Mathematics,"5.
+
+  Which team has the highest strength-of-schedule value? Why?",,
+11,How to Make the NCAA Tourney - National Council of Teachers of Mathematics,"6.
+
+  How could a team improve its RPI measure for next year?",,
+12,How to Make the NCAA Tourney - National Council of Teachers of Mathematics,REFERENCE,,
+13,How to Make the NCAA Tourney - National Council of Teachers of Mathematics,"CBSSports.com. ""NCAA Tournament Bracketology."" http://www.cbssports.com/collegebasketball/bracketology",,
+14,How to Make the NCAA Tourney - National Council of Teachers of Mathematics,,,

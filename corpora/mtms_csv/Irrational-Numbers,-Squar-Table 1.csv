@@ -1,0 +1,245 @@
+__id__,__filename__,text,,
+0,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","To improve mathematics achievement of U.S. students and to assure that ""what and how students are taught should reflect not only the topics within a certain academic discipline, but also the key ideas that determine how knowledge is organized and generated within that discipline"" are dual goals of the Common Core State Standards for Mathematics (CCSSI 2010, p. 3). My recent work with eighth-grade teachers, however, made me wonder how much support teachers actually receive to implement the Common Core (CCSSM) standards so as to be consistent with the goals and vision.",,
+1,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","CCSSM defines what students should understand and be able to do in their study of mathematics, but they ""do not dictate the curriculum or teaching methods"" (CCSSI 2010, p. 5). Therefore, individual State Boards of Education have created curriculum scope and sequence documents aligned with the standards to serve as resources for teachers. The documents also include explanations and examples to clarify what each standard means a student will know, understand, and be able to do. The teachers I work with consulted a few of these documents, hoping that they could help them figure out how to teach a particular concept, the logical sequence of topics, and so on. However, the teachers encountered difficulty with the first unit they worked on, Real Numbers and Exponents. Specifically, their questions initiated an interesting discussion regarding two standards (2010, p. 54):",,
+2,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",8.NS.1: Know that numbers that are not rational are called irrational.,,
+3,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","8.EE.2: Use square root and cube root symbols to represent solutions to equations of the form 
+  x2
+
+  = 
+  p
+
+  and 
+  x3
+
+  = 
+  p
+
+  , where 
+  p
+
+  is a positive rational number.",,
+4,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",The first question related to the introduction of irrational numbers:,,
+5,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",1. How do we introduce irrational numbers without simply telling students that,,
+6,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",,,
+7,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",and so on are examples of irrational numbers?,,
+8,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",The second pair of questions was associated with the square root and solving simple quadratic equations:,,
+9,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",2. a.,,
+10,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","b. And if the first one is correct, why does the equation 
+  x2
+
+  = 25 have two solutions, 
+  x
+
+  = 5?",,
+11,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",The following sections will attempt to answer these questions.,,
+12,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",INTRODUCING IRRATIONAL NUMBERS,,
+13,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Whenever I think of irrational numbers, I think of a tale about Hippasus and the Pythagoreans. Therefore, it seemed natural to turn to the historical record to help answer question 1 above.",,
+14,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","The discovery of irrational numbers is attributed to the Pythagoreans (fifth century B.C.). According to the Pythagorean philosophy, 
+  all is number
+
+  , where ""number"" meant positive integers, with 1 being the ""unit"" by which all other numbers were measured. Lengths, areas, and volumes, however, were continuous quantities, or 
+  magnitudes,
+
+  that represented real numbers. Pythagoreans believed that for any two lengths there exists a third length that divides both of them perfectly, representing their common unit. In other words, the ratio of any two magnitudes is the ratio of two integers. Consequently, any pair of lengths was said to be 
+  commensurable
+
+  because there exists a common unit that would evenly subdivide both lengths.",,
+15,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Ironically, a member of the Pythagorean society, Hippasus, using their most famous theorem, the Pythagorean theorem, discovered that the side of the square and its diagonal are 
+  incommensurable
+
+  . In other words, he found that there does not exist a common unit that would evenly subdivide both the length of the side of the square and the length of its diagonal. The tale says that the Pythagoreans threw Hippasus off the boat to keep the discovery of irrational numbers secret (Havil 2012). Nevertheless, the irrational numbers found their way out of the dark. The notation 
+  
+
+  that we use today appeared much later, around the sixteenth century.",,
+16,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Considering the historical perspective on irrational numbers, eighth-grade students should learn about the Pythagorean theorem before they are introduced to irrational numbers. In contrast, the unit on irrational numbers comes before the unit on the Pythagorean theorem in some states' curriculum documents. Assuming that students have never heard of the Pythagorean theorem before entering the eighth grade, how should teachers introduce irrational numbers without simply telling them which numbers are called irrational numbers?",,
+17,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","My discussion with teachers led to a conclusion that the best way to make this introduction would be to use students' prior knowledge of the area of a square. 
+  Figure 1
+
+  shows a possible sequence of learning activities to introduce irrational numbers without creating misconceptions that could affect the learning of subsequent topics (e.g., solving quadratic equations and analyzing square-root functions).",,
+18,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",,,
+19,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Such 
+  
+
+  exploration leads naturally to the introduction of a new type of numbers called 
+  irrational numbers.
+
+  A teacher can then introduce formal notation 
+  
+
+  and give it a name: The ""square root of 
+  a.
+
+  "" Finally, after further discussions, teacher and students can develop a classroom definition for the square root of a number: The square root of 
+  a
+
+  (the area of a square) is a positive number 
+  b
+
+  (the length of one side of the square) such that 
+  a
+
+  = 
+  b
+b
+
+  ; if 
+  a
+
+  is not a square number, then the length of the side is an irrational number",,
+20,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",,,
+21,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Further discussion includes finding the opposite of 
+  
+
+  , and exploring the square root of a negative number. For example, based on their prior knowledge, students should be able to state that the opposite of",,
+22,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",,,
+23,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","That said, students should use the agreed-on classroom definition of the square root to determine the square root of a negative number. For example, to find 
+  
+
+  they need to find the positive number 
+  b
+
+  (the length of the side of a square) such that -25 = 
+  b
+b
+
+  . This discussion can lead students to understand that, in the domain of real numbers, the square root of a number exists if and only if the number is nonnegative (the number is greater than or equal to zero).",,
+24,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Note that the aim of the instruction is to develop an intuitive understanding that the square root of a number is always a 
+  positive number
+
+  by associating the square root of a number with the length of the side of a square. We also avoid saying ""the square root is the inverse of the square operation."" (The reason for this approach is explained later.) As an aside, only integers are used in this discussion because students working on this particular activity learned about the properties of exponents later in the school year.",,
+25,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Finally, students were still not introduced to the formal definition of irrational numbers: numbers that cannot be represented as a ratio of two integers. The goal was to first make students aware of the existence of numbers other than rational numbers. It is important to note that irrational numbers are not the only ones that result from finding the square root of a nonsquare number, but that discussion goes beyond the expectation of eighth-grade mathematics.",,
+26,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","In this section, historical perspective was used to introduce students to the concept of irrational numbers. Unfortunately, if students had not been introduced to the Pythagorean theorem, then it would not make sense to tell the story about Hippasus and the Pythagoreans and how the invention of irrational numbers shook the Pythagoreans and the world of ancient Greece. I believe that this topic would interest students and help them remember the back story about irrational numbers. Stories like this allow students to begin to understand that they are not the only ones who have been challenged to learn new concepts in mathematics.",,
+27,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",SQUARE ROOT AND THE SOLUTIONS OF A QUADRATIC EQUATION,,
+28,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",We now turn to the teachers' question:,,
+29,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",,,
+30,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","If the first part of the question is correct, how does the equation 
+  x2
+
+  = 25 have two solutions, 
+  x
+
+  = 5? The answer to these questions is based on an understanding of the square root introduced through irrational numbers and an understanding of the square of any number introduced through integer exponents and their properties. Consider the following example: 
+  
+
+  Solve the equation 
+  x2
+
+  = 25.",,
+31,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Recall that the aim of the instruction illustrated in the previous section was to develop intuitive understanding that the square root of a nonnegative number 
+  is always a nonnegative number.
+
+  Therefore, if we think of the number 25 as the area of the square, then the length of the side of the square is",,
+32,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",,,
+33,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Likewise, if we think of 
+  x2
+
+  as the area of a square, then",,
+34,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",,,
+35,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","is a positive number, 
+  x
+
+  , because 
+  x
+x
+
+  = 
+  x2
+
+  , and 
+  x
+
+  represents the length of the side of the square.",,
+36,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","To solve the equation 
+  x2
+
+  = 25, we can use the following reasoning: 
+  x2
+
+  means to multiply 
+  x
+
+  by itself, that is, 
+  x
+x
+
+  = 
+  x2
+
+  . Clearly, a number 
+  x
+
+  can be either positive or negative because in both situations, the product, 
+  x
+x
+
+  , equals the same value, 
+  x2
+
+  . Specifically, in the equation 
+  x2
+
+  = 25, 
+  x
+
+  can assume one of the two possible values: 
+  x
+
+  = 5 because 5  5 = 25 or 
+  x
+
+  = -5 because (-5)  (-5) = 25.",,
+37,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","The two reasonings suggest that we can define the square root using the concept that is familiar to students, which is the absolute value of a number. For any rational number, 
+  x
+
+  ,",,
+38,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",,,
+39,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","This equation ensures that the square root of a number is a positive number. The answers to the questions posed at the beginning of this section are given in 
+  figure 2
+
+  .",,
+40,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",,,
+41,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Does connecting the concepts of absolute value and square root make sense to students? Let's consider what students have learned prior to this example. The square root was introduced through irrational numbers and associated with the length of the side of a square. In previous grades, students learned about absolute value as the distance a number is from zero on the number line. The distance and length refer to the same idea, the measure of how far two points are apart. Thus, it would make sense to students to relate the two concepts. Moreover, students would have the opportunity to connect their prior knowledge to this new idea and thus see how different mathematical ideas relate to each other.",,
+42,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Although the preceding discussion appears to make sense, some might question the following:",,
+43,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",Why do you define square root as,,
+44,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","The answer is revealed within the study of functions, which occurs later in the eighth-grade mathematics curriculum. Specifically, a function is defined as ""a rule that assigns to each input exactly one output"" (CCSSI 2010, p. 55; 8.F.1.). Let's use our example again. If",,
+45,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",,,
+46,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","then it would mean that for input 25 we have two outputs, +5 and -5. In other words, the square root of a number would have two distinct outputs that correspond to the same input. Based on the definition of a function, the square root would not be a function.",,
+47,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","The reasoning also justifies the decision not to refer to ""the square"" and ""the square root"" as inverse operations because they are not inverses of each other in the same way that addition and subtraction and multiplication and division are inverses of each other. The answer comes from the concept of inverse functions, and the definition that the domain of the function corresponds to the range of its inverse, and the range of the function corresponds to the domain of its inverse. Therefore, ""the square"" and ""the square root"" are inverses of each other 
+  if and only if
+
+  the domain and the range are nonnegative real numbers.",,
+48,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",CONNECTIONS AMONG CONCEPTS,,
+49,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","The purpose of this article is to respond to questions raised by middle school mathematics teachers about irrational numbers and square roots and about solving quadratic equations. I hope that the discussion not only provides a meaningful explanation of each individual concept but also connects the concepts and explores a possible way to elicit classroom discussions that emphasize making conjectures, constructing viable arguments, and critiquing the reasoning of others (e.g., the exploration described in 
+  fig. 1,
+
+  discussion about the square root and its opposite, and the square root of a negative number). To close, I want to talk about concerns raised in my mind from discussion with the two teachers.",,
+50,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","First, what event triggered teachers to ask these questions? As mentioned before, the teachers I worked with consulted various state recommendations for the curriculum scope and sequence documents. Their questions were raised because they had found contradictory interpretations of the square root and solving simple quadratic equations (see 
+  fig. 3
+
+  ). I wonder how many other such examples are in the documents? An even bigger concern is this: How many teachers will actually review more than one state recommendation to discover other discrepancies? 
+  
+
+  I hope this article will help clarify at least the confusion about the square root and solving quadratic equations.",,
+51,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",,,
+52,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Second, another concern relates, in particular, to the Standards for Mathematical Practice (SMP) 3: Construct viable arguments and critique the reasoning of others. The standards argue that mathematically proficient students should understand and use stated assumptions, definitions, and previously established results in constructing arguments. They should be able to make conjectures and build a logical progression of statements to explore the truth of their conjectures and also be able to distinguish correct logic or reasoning from that which is flawed and-if there is a flaw in an argument-explain what it is.",,
+53,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Nevertheless, the state interpretations discussed above appear to focus on memorizing facts and procedural fluency. They simply state what is correct and what is not correct, without explaining why. It can be argued that teachers should be able to provide explanations. However, research shows that teachers teach the way they were taught (e.g., Kennedy 1999). Accordingly, if their mathematics learning experience did not involve making conjectures, building a logical progression of statements, exploring the truth of their conjectures, distinguishing correct logic, or reasoning from that which is flawed, and-if there is a flaw in an argument-explaining what it is, how can we expect them to provide such experiences for their students? I hope that I have provided teachers with some idea of how to implement an activity that would give students opportunities to explore, make conclusions, generate definitions, and use established definitions to support or refute a particular argument.",,
+54,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Finally, the standards (CCSSI 2010) attempt to develop content standards that are more focused and coherent to improve mathematics achievement of U.S. students. The intent is to assure that ""what and how students are taught should reflect not only the topics within a certain academic discipline, but also the key ideas that determine how knowledge is organized and generated within that discipline"" (p. 3). Although the standards define what the students should understand and be able to do in their study of mathematics, they ""do not dictate curriculum or teaching methods"" (p. 5). Moreover, they state that ""just because topic A appears before topic B in the standards for a given grade, it does not necessarily mean that topic A must be taught before topic B"" (p. 5). Considering the discussion above, a logical sequence could be the following: functions; Pythagorean theorem; real numbers.",,
+55,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Individual state documents recommend a sequence of the topics as it appeared in the Common Core's Grade 8 Overview (p. 53): real numbers; functions; Pythagorean theorem. Although the standards suggest that ""a teacher might prefer to teach topic B before topic A, or might choose to highlight connections by teaching topic A and topic B at the same time"" (p. 5), I wonder how many teachers will take a risk to change the sequence of the topics. Students will take assessments corresponding to the standards, and teachers have to think about the question, Which sequence of the topics will be considered on the assessments? 
+  
+
+  No doubt, it will be the sequence provided in the standards.",,
+56,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",ACKNOWLEDGMENT,,
+57,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","A special thank you is sent to eighth-grade mathematics teachers Bernadette Skobel and Adrienne Pavek of North Palos District 117, whose questions initiated this discussion.",,
+58,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics",BIBLIOGRAPHY,,
+59,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Common Core State Standards Initiative (CCSSI). 2010. Common Core State Standards for Mathematics. Washington, DC: National Governors Association Center for Best Practices and the Council of Chief State School Officers. http://www.corestandards.org/wp-content/uploads/Math_Standards.pdf",,
+60,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Delaware Department of Education. n.d. ""Learning Progressions, CCSS: Grade 8."" http://www.doe.k12.de.us/info suites/staff/ci/content_areas/math.shtml",,
+61,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Havil, Julian. 2012. 
+  The Irrationals: A Story of Numbers You Can't Count On.
+
+  Princeton, NJ: Princeton University Press.",,
+62,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Illinois State Board of Education. n.d. ""Illinois Model Curriculum Scope and Sequence, and Units: 8th Grade Mathematics."" http://www.isbe.net/common_core/htmls/math-model-units.htm",,
+63,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Kennedy, Mary M. 1999. ""The Role of Preservice Teacher Education."" In 
+  Teaching as the Learning Profession: Handbook of Teaching and Policy
+
+  , edited by Linda Darling-Hammond and Gary Sykes, pp. 54-86. San Francisco: Jossey-Bass.",,
+64,"Irrational Numbers, Square Roots, and Quadratic Equations - National Council of Teachers of Mathematics","Public Schools of North Carolina: State Board of Education, Department of Public Instruction. 2012. ""8th Grade Mathematics-Unpacked Content."" http://www.ncpublicschools.org/docs/acre/standards/common-core-tools/unpacking/math/8th.pdf",,

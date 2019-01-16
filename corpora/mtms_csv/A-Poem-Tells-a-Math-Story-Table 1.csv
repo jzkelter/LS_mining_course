@@ -1,0 +1,54 @@
+__id__,__filename__,text,__id__,__filename__
+0,A Poem Tells a Math Story,readers write letters from our readers,0,A Poem Tells a Math Story
+1,A Poem Tells a Math Story,A POEM TELLS A MATH STORY,1,A Poem Tells a Math Story
+2,A Poem Tells a Math Story,"I wanted to share an idea, and the results, from a cross-curricular activity that the language arts teacher and I, the middle school math teacher, tried last year. During April, in honor of poetry month, I began each class by reading a poem related to math. I was hard pressed to find many good poems online for this subject area. ",2,A Poem Tells a Math Story
+3,A Poem Tells a Math Story,"In the last week of April, I asked the students to write a poem about math. The assignment was openended; the subject matter could be anything related to math, and it had to follow one of the poetry formats that students were learning about in language arts. My hope was to compile fun poems to read the next year during April. ",3,A Poem Tells a Math Story
+4,A Poem Tells a Math Story,"The assignment was a great suc- cess. The students were speaking about it all week. They were sharing their poems and very excited to hear them. One poem stood out, written by Olivia, an eighth-grade female student (see fig. 1). ",4,A Poem Tells a Math Story
+5,A Poem Tells a Math Story,This is one of those moments as a teacher that I know I have received something very special. I want to honor the student and share this incredible poem. ,5,A Poem Tells a Math Story
+6,A Poem Tells a Math Story,Doranne Lacayo Middle School Teacher,6,A Poem Tells a Math Story
+7,A Poem Tells a Math Story,NJHS Advisor,7,A Poem Tells a Math Story
+8,A Poem Tells a Math Story,St. Helen Catholic School,8,A Poem Tells a Math Story
+9,A Poem Tells a Math Story,"Georgetown, Texas",9,A Poem Tells a Math Story
+10,A Poem Tells a Math Story,Readers are encouraged to share their thoughts. Email letters to mtms@nctm.,10,A Poem Tells a Math Story
+11,A Poem Tells a Math Story,"org, type Readers Write in the message line, and copy the letter to all authors if responding to an article.",11,A Poem Tells a Math Story
+12,A Poem Tells a Math Story,"Fig. 1 History, math, and English occupy lovely space in this poem.",12,A Poem Tells a Math Story
+13,A Poem Tells a Math Story,Numbers: The Storytellers,13,A Poem Tells a Math Story
+14,A Poem Tells a Math Story,By Olivia Lozano,14,A Poem Tells a Math Story
+15,A Poem Tells a Math Story,Numbers. . .,15,A Poem Tells a Math Story
+16,A Poem Tells a Math Story,What are they?,16,A Poem Tells a Math Story
+17,A Poem Tells a Math Story,What are they for?,17,A Poem Tells a Math Story
+18,A Poem Tells a Math Story,"Each number has a story,",18,A Poem Tells a Math Story
+19,A Poem Tells a Math Story,Sometimes many to tell,19,A Poem Tells a Math Story
+20,A Poem Tells a Math Story,For they are listeners of time,20,A Poem Tells a Math Story
+21,A Poem Tells a Math Story,And the watchers and occupants of space,21,A Poem Tells a Math Story
+22,A Poem Tells a Math Story,The number Two spins tales of love,22,A Poem Tells a Math Story
+23,A Poem Tells a Math Story,For that is just how many it takes,23,A Poem Tells a Math Story
+24,A Poem Tells a Math Story,Yet it is also the number of World Wars,24,A Poem Tells a Math Story
+25,A Poem Tells a Math Story,Eight and Nine argue about,25,A Poem Tells a Math Story
+26,A Poem Tells a Math Story,How many planets are in our solar system,26,A Poem Tells a Math Story
+27,A Poem Tells a Math Story,Seventeen-seventy-six shares its memories,27,A Poem Tells a Math Story
+28,A Poem Tells a Math Story,Of a great nation being born,28,A Poem Tells a Math Story
+29,A Poem Tells a Math Story,Six million weeps and sobs of the deaths,29,A Poem Tells a Math Story
+30,A Poem Tells a Math Story,Of innocent God-loving people,30,A Poem Tells a Math Story
+31,A Poem Tells a Math Story,Along with nineteen-forty-five,31,A Poem Tells a Math Story
+32,A Poem Tells a Math Story,See what these have to say,32,A Poem Tells a Math Story
+33,A Poem Tells a Math Story,The infinite number of storytellers cries out,33,A Poem Tells a Math Story
+34,A Poem Tells a Math Story,We don’t have to listen for infinity,34,A Poem Tells a Math Story
+35,A Poem Tells a Math Story,Just for a little while,35,A Poem Tells a Math Story
+36,A Poem Tells a Math Story,And perhaps we could learn something,36,A Poem Tells a Math Story
+37,A Poem Tells a Math Story,That equations could never teach us,37,A Poem Tells a Math Story
+38,A Poem Tells a Math Story,CURIOSITY AND SKEPTICISM,38,A Poem Tells a Math Story
+39,A Poem Tells a Math Story,"Mathematicians have long searched for a function f(n) that will always produce a prime number. In the interesting article “Generalizing and Skepticism: Bringing Research to Practice” by David A. Yopp and Jacob L. Ellsworth (December 2016/January 2017, pp. 284–92), the authors use the expression n2 + n + 41, which Euler proposed as an expression for creating prime numbers. When using n = 1, 2, 3, . . . , this expression will  produce a prime number for every natural number value of n until  n = 40. However, f(40) = 1681 = 412.",39,A Poem Tells a Math Story
+40,A Poem Tells a Math Story,"Although I know that quadratic  functions of the form f(n) = n2 + n + k do not always create prime numbers, I was still curious about it. So I looked at the function f(n) = n2 + n + k, where n is a natural number, and considered possible natural number values for k. I investigated values of k that are even, odd and composite, and prime. ",40,A Poem Tells a Math Story
+41,A Poem Tells a Math Story,"First, I considered even values for  k. Look at the first two terms; n2 + n = n(n + 1) is always the product of one even number and one odd number and so is always even. So when an even value for k is added to n2 + n, f(n) is even and composite. ",41,A Poem Tells a Math Story
+42,A Poem Tells a Math Story,"Then I thought about odd, composite values for k. If k is composite, then k = a × b, where a and b are natural numbers. So: f(n) = n2 + n + k = n2 + n + a × b f(a) = a2 + a + a × b = a(a + 1 + b)",42,A Poem Tells a Math Story
+43,A Poem Tells a Math Story,"So when k is a composite number, f(n)  will be composite when n is a factor of k.",43,A Poem Tells a Math Story
+44,A Poem Tells a Math Story,"Next, I investigated prime number values for k. Picking a number at random, I decided to consider what happens when k = 11. Substituting consecutive natural numbers in for n, I found that f(n) = n2 + n + 11 produced prime numbers for n = 0 through n = 9. But when n = 10, f(n) is the composite number 121. ",44,A Poem Tells a Math Story
+45,A Poem Tells a Math Story,"Noticing that composite numbers  and square numbers for both f(n) = n2 + n + 11 and f(n) = n2 + n + 41 occurred when n = k – 1, I decided to  explore that situation: f(k – 1) = (k – 1) 2 + (k – 1) + k = k2, a composite and square number. So f(n) = n2 + n + k will never produce prime numbers beyond n = k − 2. ",45,A Poem Tells a Math Story
+46,A Poem Tells a Math Story,"In conclusion, no expression in the  form of n2 + n + k, with k a natural number, will create a prime number for all natural number values of n.",46,A Poem Tells a Math Story
+47,A Poem Tells a Math Story,Judith Macks jmacks@towson.edu,47,A Poem Tells a Math Story
+48,A Poem Tells a Math Story,Towson University,48,A Poem Tells a Math Story
+49,A Poem Tells a Math Story,"Towson, Maryland",49,A Poem Tells a Math Story
+50,A Poem Tells a Math Story,I ♥ rotational symmetry. ,50,A Poem Tells a Math Story
+51,A Poem Tells a Math Story,MATHEMATICS ,51,A Poem Tells a Math Story
+52,A Poem Tells a Math Story,IS ALL AROUND US.,52,A Poem Tells a Math Story
