@@ -1,16 +1,11 @@
-``` python
-import nltk
-import ssl
+# Files to get for week 3
 
-try:
-    _create_unverified_https_context = ssl._create_unverified_context
-except AttributeError:
-    pass
-else:
-    ssl._create_default_https_context = _create_unverified_https_context
+You want notebooks 8, 9, 10, and 11. Put those in your LS_mining_course folder
 
-nltk.download()
-```
+There's a new list in the lists folder called "seasons_stop_list.txt." Put that in your lists folder.
+
+Finally, there are two new sub-folders in the corpora folder that you should grab. 
+They are called "seasons" and "seasonscomparisondocs"
 
 # New directions for Week 2
 
