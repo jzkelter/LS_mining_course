@@ -9,6 +9,8 @@ They are called "seasons" and "seasonscomparisondoc."
 
 Finally, to do the nice printing of matrices you need to install the sympy python package.
 
+Also, you need to grab two modules. seasons_module.py and uttilities.py
+
 ```
 source venv/bin/activate
 pip install sympy
