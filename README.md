@@ -1,11 +1,18 @@
-# Files to get for week 3
+# For week 3
 
-You want notebooks 8, 9, 10, and 11. Put those in your LS_mining_course folder
+You want notebooks 8, 9, 10, and 11. Put those in your LS_mining_course folder.
 
 There's a new list in the lists folder called "seasons_stop_list.txt." Put that in your lists folder.
 
-Finally, there are two new sub-folders in the corpora folder that you should grab. 
-They are called "seasons" and "seasonscomparisondocs"
+There are two new sub-folders in the corpora folder that you should grab. 
+They are called "seasons" and "seasonscomparisondoc."
+
+Finally, to do the nice printing of matrices you need to install the sympy python package.
+
+```
+source venv/bin/activate
+pip install sympy
+```
 
 # New directions for Week 2
 
